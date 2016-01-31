@@ -1,0 +1,28 @@
+{
+  "name": "sample",
+  "version": "1.0.0",
+  "description": "",
+  "repository": "dummy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^3.9.3",
+    "jquery": "^2.2.0",
+    "bxslider": "^4.2.6"
+  },
+  "devDependencies": {
+    "babelify": "^6.1.2",
+    "browser-sync": "^2.7.13",
+    "browserify": "^10.2.4",
+    "gulp": "^3.9.0",
+    "gulp-livereload": "^3.8.0",
+    "gulp-notify": "^2.2.0",
+    "gulp-plumber": "^1.0.1",
+    "node-notifier": "^4.2.3",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
